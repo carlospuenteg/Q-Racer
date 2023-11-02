@@ -49,14 +49,14 @@ This AI can train a car to complete a custom track drawn by the user and find th
 
 #### Best Attempt Video
 
-https://github.com/carlospuenteg/Q-Racer/assets/65092569/43b7d978-d46d-4c2d-95b3-30c176a2f7bb
+[![Video](https://img.shields.io/badge/Play-Video-blue)](https://raw.githubusercontent.com/carlospuenteg/Q-Racer/main/out/best_attempt.mp4)
 
 *Footage of the AI's optimal path completion.*
 
 
 #### Combined Attempts Video
 
-https://github.com/carlospuenteg/Q-Racer/assets/65092569/be02317c-7827-4e14-aa6a-32aa4cfac694
+[![Video](https://img.shields.io/badge/Play-Video-blue)](https://raw.githubusercontent.com/carlospuenteg/Q-Racer/main/out/combined_attempts.mp4)
 
 *Montage video showing a range of attempts, visualizing the AI's evolution.*
 
