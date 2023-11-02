@@ -21,6 +21,9 @@ This AI can train a car to complete a custom track drawn by the user and find th
 
 
 
+
+
+
 ## How It Works
 
 - `draw_track.py`: Allows you to create a custom track using Pygame.
@@ -46,14 +49,14 @@ This AI can train a car to complete a custom track drawn by the user and find th
 
 #### Best Attempt Video
 
-[...](https://github.com/carlospuenteg/carlospuenteg/assets/65092569/abe4a71b-a823-463c-8796-644a1fa40759)
+https://github.com/carlospuenteg/Q-Racer/assets/65092569/e3d52875-032c-49a7-a412-c05fddca0e59
 
 *Footage of the AI's optimal path completion.*
 
 
 #### Combined Attempts Video
 
-[...](https://github.com/carlospuenteg/carlospuenteg/assets/65092569/00db9215-f358-4c71-a851-11049568b776)
+https://github.com/carlospuenteg/Q-Racer/assets/65092569/7973ade8-f59b-4433-9ad2-f3cac4e45abf
 
 *Montage video showing a range of attempts, visualizing the AI's evolution.*
 
